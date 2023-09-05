@@ -46,7 +46,7 @@ let g:EasyMotion_force_csapprox     = get(g: , 'EasyMotion_force_csapprox'     ,
 let g:EasyMotion_show_prompt        = get(g: , 'EasyMotion_show_prompt'        , 1)
 let g:EasyMotion_verbose            = get(g: , 'EasyMotion_verbose'            , 1)
 let g:EasyMotion_prompt             =
-    \ get(g: , 'EasyMotion_prompt' , 'Search for {n} character(s): ')
+    \ get(g: , 'EasyMotion_prompt' , '🔭 > ')
 let g:EasyMotion_command_line_key_mappings =
     \ get(g: , 'EasyMotion_command_line_key_mappings' , {})
 let g:EasyMotion_disable_two_key_combo     =
